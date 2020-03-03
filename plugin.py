@@ -9,8 +9,7 @@ import struct
 import tkinter as tk
 
 import style
-from gui.plugins import basePlugin
-from gui.widgets import basePage, button
+from gui.widgets import basePlugin, basePage, button
 from gui.widgets import scrollingWidgets
 
 #Hate me, idc. This made life easy.
